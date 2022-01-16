@@ -364,9 +364,22 @@ export const collections = {
   'FWyHgKxuDwgRfJzLxuDBBdAiAc3daDyLnDubBstfasy8': {
     ME: 'friendly_frog_social_club'
   },
-  // '': {
-  //   SA: '',
-  //   DE: '',
-  //   ME: '',
-  // },
+    'AwuhWcbw49oz6bV98eL4352KuPcbt4qGunmAM17EGxBi': {
+    ME: 'lucky_kittens',
+  },
+   'YzW9d5WEVFNpK74HEChL8QBE9bkougrJA2BYjTs5b9Y': {
+    ME: 'bunny_warriors',
+  },
+  'D18CCzT3fmratZFeyBPAUdS21NAgWsyKBfSSiEFJDrBA': {
+    ME: 'the_fearless_ferret_faction_',
+  },
+  'Gc9H6VRhTy4nN56oM75oMmNMUZNCSLHSC44Lwn7yaeuj': {
+    ME: 'nekoverse',
+  },
+   'xSPJyofRmKJGuTQUn6hS5z6fJWuJA4oqUGHYcgjXMah': {
+    ME: 'peeps',
+  },
+     'NQKvHMv3uoUM4nMVUmcEkKDGiYDJZKF6WkrSiMm66Dq': {
+    ME: 'shrooms',
+  },
 };
